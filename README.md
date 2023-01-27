@@ -11,6 +11,8 @@ interests:
     "Bot Development"
   ]
 ```
+## ECOLE42 Stats
+[![abulut's 42 stats](https://badge42.vercel.app/api/v2/cldeho95j00730fl3huf33axr/stats?cursusId=21&coalitionId=232)](https://github.com/JaeSeoKim/badge42)
 ## GitHub Stats
 ![urqeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=urqeon&show_icons=true&theme=synthwave) &nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urqeon&layout=compact&theme=synthwave)](https://github.com/urqeon)
 ## Languages
