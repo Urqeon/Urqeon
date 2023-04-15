@@ -8,7 +8,6 @@ current_job: Software Developer
 interests:
   [
     "Web Development",
-    "Bot Development"
   ]
 ```
 ## ECOLE42 Stats
@@ -16,6 +15,6 @@ interests:
 ## GitHub Stats
 ![urqeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=urqeon&show_icons=true&theme=synthwave) &nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urqeon&layout=compact&theme=synthwave)](https://github.com/urqeon)
 ## Languages
-![Langs](https://skillicons.dev/icons?i=html,css,js,ts,c,")
+![Langs](https://skillicons.dev/icons?i=html,css,css,js,jquery,c,")
 ## Technologies
-![Techs](https://skillicons.dev/icons?i=vscode,git,vim,bash,bots,")
+![Techs](https://skillicons.dev/icons?i=vscode,git,vim,bash,")
