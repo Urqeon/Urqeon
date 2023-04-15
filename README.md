@@ -17,4 +17,4 @@ interests:
 ## Languages
 ![Langs](https://skillicons.dev/icons?i=html,css,js,jquery,c,")
 ## Technologies
-![Techs](https://skillicons.dev/icons?i=vscode,git,vim,bash,")
+![Techs](https://skillicons.dev/icons?i=vscode,git,vim,bash,discord")
